@@ -17,7 +17,6 @@ mixin Nadador {
 }
 
 
-
 class Delfin extends Mamifero with Nadador {}
 class Murcielago extends Ave with Volador,Caminante{}
 class Gato extends Pet with Caminante {}
