@@ -5,7 +5,6 @@ void main(){
         'isAlive':true
     };
 
-
     final ironman = Hero.fromJson(rawJson);
 
     print(ironman);
